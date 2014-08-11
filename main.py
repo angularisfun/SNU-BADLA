@@ -2,9 +2,9 @@ import urllib
 import urllib2
 import random
 
-a = ["Your Daddy","Your Mommy","Ram Sharma","Your Dick","Justin Beiber"]
+a = ["Your Daddy","Your Mommy","Ram Sharma","Your Dick"]
 b = ["The one your daddy did to make you","the one you watch regularly online","The ones your served in restraunts","Engineering Motherfucker ! "]
-c = ["Your Ex","Prince William","Baba Ramdev","Your Future Girlfriend","Mark Zuckerberg"]
+c = ["Your Ex","Your Future Girlfriend"]
 d = ["3A","3C","GH2","GH1","Your Mothers Cunt"]
 e = ["69","420","100","infinity","Fuck you, i cant count"]
 f = ["The Jocker","The Batman","F***69","The Number of balls you have = 0 ","The number of times you got your girfriend pregnant"]
